@@ -1,4 +1,4 @@
-- Hi im [name here]
+- Hi im [full name here]
 - Im interested in [boring ass hobby]
 - Im currently learning [uninteresting subject]
 
